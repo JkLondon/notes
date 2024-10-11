@@ -1,2 +1,2 @@
-# notes
+# Notes
 my markdown notes
